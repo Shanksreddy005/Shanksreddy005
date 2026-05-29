@@ -1,6 +1,19 @@
 # 💫 About Me:
-About Me Section — What to Write<br><br>Based on your profile, background, and everything we've built together:<br>markdown## 👨‍💻 About Me<br><br>- 🎓 Final year **B.Tech CSE student at VIT Vellore** with a strong <br>  foundation in statistics, databases, and data-driven problem solving<br><br>- 📊 Passionate about turning raw data into business decisions — <br>  I build end-to-end analytics projects covering SQL, Python, <br>  Power BI, and data storytelling<br><br>- 🍔 Recently completed a **2M+ record food delivery platform analysis** <br>  using advanced SQL — RFM segmentation, cohort retention, <br>  churn prediction, and delivery operations across 9 relational tables<br><br>- 🏅 **AWS Certified Solutions Architect (Score: 940)** and <br>  completed Data Analytics simulations with **Deloitte** and <br>  **Quantium** via Forage<br><br>- 🌱 Currently learning **Power BI (DAX)**, working through the <br>  **Google Data Analytics Certificate**, and competing on Kaggle<br><br>- 💼 Actively looking for **Data Analyst internships and <br>  entry-level roles** — open to remote and Hyderabad-based opportunities<br><br>- 🤝 Open to collaborating on analytics projects, dashboards, <br>  and open-source data work<br><br>- 📬 Reach me at **shashank.reddy5804@gmail.com**
+🎓 Final year B.Tech CSE student at VIT Vellore with a strong foundation in statistics, databases, and data-driven problem solving
 
+📊 Passionate about turning raw data into business decisions — I build end-to-end analytics projects covering SQL, Python, Power BI, and data storytelling
+
+🍔 Recently completed a 2M+ record food delivery platform analysis using advanced SQL — RFM segmentation, cohort retention, churn prediction, and delivery operations across 9 relational tables
+
+🏅 AWS Certified Solutions Architect (Score: 940) and completed Data Analytics simulations with Deloitte and Quantium via Forage
+
+🌱 Currently learning Power BI (DAX), working through the Google Data Analytics Certificate, and competing on Kaggle
+
+💼 Actively looking for Data Analyst internships and entry-level roles — open to remote and Hyderabad-based opportunities
+
+🤝 Open to collaborating on analytics projects, dashboards, and open-source data work
+
+📬 Reach me at shashank.reddy5804@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-reddy-147227260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashank.reddy5804@gmail.com) 
